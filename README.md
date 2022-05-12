@@ -1,6 +1,4 @@
-# my-music
 
-> APP Curso Profesional de vue.js
 
 ## Build Setup
 
